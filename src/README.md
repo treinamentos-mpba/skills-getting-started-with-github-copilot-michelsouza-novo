@@ -7,6 +7,15 @@ Uma aplicação FastAPI super simples que permite que estudantes visualizem e se
 - Visualizar todas as atividades extracurriculares disponíveis
 - Inscrever-se em atividades
 
+## Testes
+
+Na raiz do repositório, instale as dependências e execute os testes:
+
+```bash
+python -m pip install -r requirements.txt
+python -m pytest -q
+```
+
 ## Primeiros Passos
 
 1. Instale as dependências:
